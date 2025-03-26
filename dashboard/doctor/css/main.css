@@ -17,6 +17,11 @@
   width: 60px;
   top: 0px;
 }
+.details{
+  display: flex;
+  gap:10px;
+  margin-left:10px;
+}
 .container#blur.active{
   filter: blur(20px);
 }
